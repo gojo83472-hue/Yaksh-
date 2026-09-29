@@ -1,0 +1,6 @@
+{
+  "name": "Echo Shift",
+  "description": "A futuristic 2D action-adventure puzzle game where you record your movements and deploy Echo Copies to manipulate switches, outsmart enemies, and master 50 levels across diverse sci-fi worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

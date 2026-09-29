@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Echo Shift</string>
+    <string name="menu_play">START GAME</string>
+    <string name="menu_levels">SELECT LEVEL</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_tutorial">TUTORIAL</string>
+    <string name="menu_achievements">ACHIEVEMENTS</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_restart">RESTART</string>
+    <string name="btn_exit">EXIT TO MENU</string>
+    <string name="status_recording">RECORDING ECHO...</string>
+    <string name="status_playback">ECHO ACTIVE</string>
+    <string name="status_ready">ECHO READY</string>
+</resources>

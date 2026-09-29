@@ -1,0 +1,70 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Echo Ghost / Shadow runner (Offset Violet #A855F7) -->
+    <path
+        android:fillColor="#80A855F7"
+        android:pathData="M48,26 L56,26 L62,38 L54,42 L58,56 L44,48 L46,40 L40,36 Z" />
+    <path
+        android:fillColor="#80C084FC"
+        android:pathData="M52,22 A4,4 0 1,1 51.9,22 Z" />
+    <path
+        android:fillColor="#80A855F7"
+        android:pathData="M44,48 L38,68 L44,70 L50,56 Z" />
+    <path
+        android:fillColor="#807E22CE"
+        android:pathData="M56,54 L66,66 L72,64 L60,50 Z" />
+
+    <!-- Temporal Rift Rings / Speed Lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4038BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M24,54 L84,54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6000F0FF"
+        android:strokeWidth="1.8"
+        android:pathData="M30,38 L78,38 M26,70 L70,70" />
+
+    <!-- Main Futuristic Runner (Vibrant Cyan #00F0FF & White) -->
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,22 A4,4 0 1,1 57.9,22 Z" />
+    <!-- Visor glow -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M59,21 L63,22 L59,23 Z" />
+    <!-- Torso -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,27 L63,27 L69,39 L60,44 L64,58 L50,50 L52,41 L46,37 Z" />
+    <!-- Core Reactor / Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,33 L60,33 L58,38 Z" />
+    <!-- Front Leg -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M62,56 L73,68 L78,66 L66,52 Z" />
+    <!-- Back Leg -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M50,50 L44,70 L50,72 L57,58 Z" />
+
+    <!-- Futuristic Chevron Frame / Echo Diamond -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2.2"
+        android:pathData="M54,16 L88,54 L54,92 L20,54 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="1.2"
+        android:pathData="M50,18 L82,54 L50,90 L18,54 Z" />
+</vector>
+
